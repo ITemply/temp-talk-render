@@ -4,7 +4,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 const app = express();
 const port = 3000;
 
-const targetUrl = 'https://temptalk.onrender.com';
+const targetUrl = 'https://temptalk.onrender.com/';
 
 const proxy = createProxyMiddleware({
   target: targetUrl,
