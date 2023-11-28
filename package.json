@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "start": "node index.js --port=$PORT"
+    "start": "node index.js --port=$PORT",
+    "dependencies":{"express":"^4.18.2"}
   }
 }
