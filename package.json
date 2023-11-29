@@ -9,5 +9,5 @@
     "dotenv": "^16.0.1",
     "express": "~4.16.1",
     "sanitize-html": "^2.7.0"
-  },
+  }
 }
