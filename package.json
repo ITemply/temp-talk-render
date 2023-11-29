@@ -1,7 +1,7 @@
 {
   "name": "temp-talk-render",
   "scripts": {
-    "start": "node ./index",
+    "start": "node ./index"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
